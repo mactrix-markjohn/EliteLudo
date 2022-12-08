@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "182109495915",
+    "project_id": "eliteludo-8bfbf",
+    "storage_bucket": "eliteludo-8bfbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182109495915:android:ee015e369eaac4b43b872e",
+        "android_client_info": {
+          "package_name": "com.eliteludo.webplustech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182109495915-106u7jnpvfv8rluavg4baivic31f0m4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9-_UUJDum0fIYVbO6hhc7-BJ86pvaMMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182109495915-106u7jnpvfv8rluavg4baivic31f0m4n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182109495915-qmt633peq6bf8i9g5t3c2a9lq6i08pdf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eliteludo.webplustech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
